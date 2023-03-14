@@ -1,0 +1,9 @@
+@article{REPO-252,
+    author = "Mierlo, Guido van and Jansen, Jurriaan R.G. and Wang, Jie and Poser, Ina and Heeringen, Simon J. van and Vermeulen, Michiel",
+    journal = "Cell Reports",
+    number = "5",
+    pages = "108705",
+    title = "{Predicting Protein Condensate Formation Using Machine Learning}",
+    volume = "34",
+    year = "2021"
+}
